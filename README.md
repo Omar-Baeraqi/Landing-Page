@@ -1,11 +1,11 @@
 # Landing Page Project
 Udacity's second project in front end web development nanodegree.
 ## Table of Contents
-- index.html 
+- index.html   
 Starter code provided by the course.
-- styles.css
+- styles.css  
 Styling for the provided HTML.
-- app.js
+- app.js  
 JavaScript file containing all app's functionality.
 * [Instructions](#instructions)
 
