@@ -57,6 +57,15 @@ function setsectionactive(){
             }
             container.target.classList.add("active");
         });
+        // Highlight navigation item
+        for (i=0; i<sections.length; i++){
+            if (sections[i].classList.contains("active")){
+                navbar.childNodes[i].classList.add("highlight");
+            }
+            else {
+                navbar.childNodes[i].classList.remove("highlight");
+            }
+        }
     }, options);
 
     sections.forEach(section => {
