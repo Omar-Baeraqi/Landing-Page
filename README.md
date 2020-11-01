@@ -2,11 +2,11 @@
 Udacity's second project in front end web development nanodegree.  
 A multi-section landing page which dynamically add the content to the page. Along with some specific functionalities.
 ## Table of Contents
-- index.html 
+- index.html  
 Starter code provided by the course.
-- styles.css
+- styles.css  
 Styling for the provided HTML.
-- app.js
+- app.js  
 JavaScript file containing all app's functionality.
 * [Instructions](#instructions)
 
